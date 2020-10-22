@@ -14,7 +14,7 @@ body{
 }
 
 #home-section{
-    background: url(/img/nature2.jpg) no-repeat  ;
+    background: url('/img/nature2.jpg') no-repeat  ;
     background-size: cover;
     background-attachment: fixed;
     min-height: 900px;
